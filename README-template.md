@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://sphamandla-s.github.io/stats-preview-card-component-main/]
+- Live Site URL: [https://sphamandla-s.github.io/3-column-preview-card-component-main/]
 
 ## My process
 
